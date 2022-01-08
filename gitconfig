@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = martin_ebel@icloud.com
+	name = Martin Ebel
